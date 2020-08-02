@@ -6,4 +6,8 @@
     <RootNamespace>try-test-app</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\dependency\cmplx_package.csproj" />
+  </ItemGroup>
+
 </Project>
